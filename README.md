@@ -1,9 +1,9 @@
-This is the Next.js starter site (and course files) for the Next.js & Contentful tutorial by the Net Ninja.
+This is a recipe app that was made with next.js and contentful.
 
 ## Getting Started
 
-To use the starter project, run the following in a terminal:
+To use the project, run the following in a terminal:
 
 ```bash
-npx create-next-app [your-site-name] -e https://github.com/iamshaunjp/next-contentful/tree/lesson-1-starter-site
+npx create-next-app [your-site-name] -e [url-here]
 ```
